@@ -50,6 +50,11 @@ public class Rocket : MonoBehaviour {
             if (!_audio.isPlaying) {
                 _audio.Play();
             }
+        }else if (Input.GetKey(KeyCode.S)) {
+            _rigidbody.AddRelativeForce(Vector3.up * (- mainThrust * Time.deltaTime));
+            if (!_audio.isPlaying) {
+                _audio.Play();
+            }
         }
         else {
             _audio.Stop();

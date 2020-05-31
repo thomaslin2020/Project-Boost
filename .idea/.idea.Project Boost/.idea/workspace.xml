@@ -20,29 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1a3ee94-086a-4278-8bbe-8eaededf6537" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Project Boost/.idea/.idea.Project Boost.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Project Boost/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Project Boost/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Project Boost/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Project Boost/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Project Boost/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Project Boost/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Project Boost/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/main engine tiny.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/main engine tiny.ogg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/rocket_thrust_effect.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/rocket_thrust_effect.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/Flame.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/Flame.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/Fuel.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/Fuel.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Fuel.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Fuel.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Obstacle.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Obstacle.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Obstacle.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Obstacle.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Project Boost/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project Boost/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Fuel.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Fuel.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level 1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Rocket.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Rocket.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1590938725014</updated>
       <workItem from="1590938730084" duration="54000" />
-      <workItem from="1590938799214" duration="3270000" />
+      <workItem from="1590938799214" duration="3571000" />
     </task>
     <servers />
   </component>
